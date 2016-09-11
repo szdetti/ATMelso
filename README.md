@@ -1,8 +1,7 @@
 # ATMelso
 ATM tombok nelkul
- public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int penz = 0;
+
+
 
         System.out.print("Mennyi pénzt szeretnél felvenni?: ");
         penz = sc.nextInt();
