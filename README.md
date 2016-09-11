@@ -103,5 +103,5 @@ ATM tombok nelkul
         } else {
             System.out.println("A minimum összeg 0, a maximum 250000!");
         }
-    }
-}
+    
+
